@@ -1,0 +1,9 @@
+﻿  cnn.c
+F:\C\lenet-5\Project1\cnn.c(99,9): warning C4101: “j”: 未引用的局部变量
+F:\C\lenet-5\Project1\cnn.c(147,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\C\lenet-5\Project1\cnn.c(134,12): warning C4101: “k”: 未引用的局部变量
+F:\C\lenet-5\Project1\cnn.c(489,9): warning C4101: “j”: 未引用的局部变量
+F:\C\lenet-5\Project1\cnn.c(549,50): warning C4133: “函数”: 从“OutLayer *”到“FcLayer *”的类型不兼容
+F:\C\lenet-5\Project1\cnn.c(536,9): warning C4101: “j”: 未引用的局部变量
+F:\C\lenet-5\Project1\cnn.c(577): warning C4716: “output”: 必须返回一个值
+  Project1.vcxproj -> F:\C\lenet-5\Debug\Project1.exe
